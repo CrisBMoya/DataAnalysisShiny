@@ -1,0 +1,27 @@
+//li {
+//  float: left;
+//}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+#borderBox {
+border: 1px solid rgba(221,221,221,0.51);
+}
+
+#Opt1, #Opt2, #Opt3 {
+margin-left: 40%;
+margin-right: 40%;
+margin-bottom: 2%;
+width: 20%";
+}
